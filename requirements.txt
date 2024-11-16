@@ -1,0 +1,6 @@
+discord.py-self
+requests
+colorama
+python-dateutil
+decopt
+pystyle

@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN",
+    "prefix": "!>",
+
+    "delete-commands": false,
+    "delete-commands-delay": 1,
+
+
+    "HideToSystemTray": false,
+    "RunOnStartup": false
+}
