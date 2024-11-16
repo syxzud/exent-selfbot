@@ -8,4 +8,6 @@ how to download and use:
 pip install -r requirements.txt\
 python main.py (or run start.bat)\
 
-purge command doesnt work btw
+purge command doesnt work btw\
+
+please star this project if you liked it
