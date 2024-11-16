@@ -26,6 +26,6 @@ async def eightball(ctx, *question: str):
 
     ]
 
-    await ctx.send(f"Question: {question}\nAnswer: {random.choice(responses)}")
+    message = " ".join(question)
 
-
+    await ctx.send(f"Question: {message}\nAnswer: {random.choice(responses)}")
