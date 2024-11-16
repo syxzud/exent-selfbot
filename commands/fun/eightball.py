@@ -4,7 +4,7 @@ import random
 exent = holder.bot
 
 @exent.command()
-async def eightball(ctx, question: str):
+async def eightball(ctx, *question: str):
     await ctx.message.delete()
     responses = [
         "It is certain",
