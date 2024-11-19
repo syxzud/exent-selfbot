@@ -38,8 +38,6 @@ from commands.fun import insult
 
 DEBUG = False
 
-# Suppress all runtime warnings
-
 system("title exent ^| v1.0.0")
 system("cls")
 banner ="""
